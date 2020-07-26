@@ -1,1 +1,5 @@
-This is test file for CItesting
+<<<<<<< HEAD
+This is test file 
+=======
+Sample deploy file
+>>>>>>> dfe475a41c4171a375aa41980d577f8861bfb9da
